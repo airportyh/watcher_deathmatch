@@ -1,0 +1,18 @@
+{
+  "name": "watcher_deathmatch",
+  "version": "0.0.0",
+  "description": "Compare various file directory watchers in Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toby Ho",
+  "license": "MIT",
+  "dependencies": {
+    "gaze": "~0.4.3",
+    "chokidar": "~0.7.1",
+    "watchr": "~2.4.4",
+    "fireworm": "~0.4.4",
+    "async": "~0.2.9"
+  }
+}
