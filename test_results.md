@@ -122,4 +122,19 @@ OSX + VIM
   11. pass
   12. pass
   13. pass
-  
+
+Windows 7 + Sublime Text 2
+
+  1. pass (but double event)
+  2. pass
+  3. pass
+  4. fail (glob-matching bug on windows)
+  5. fail (glob-matching bug?)
+  6. fail
+  7. pass
+  8. pass
+  9. passail
+  10. fail
+  11. fail
+  12. fail
+  13. fail (error out)
