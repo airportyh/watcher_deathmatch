@@ -138,3 +138,19 @@ Windows 7 + Sublime Text 2
   11. fail
   12. fail
   13. fail (error out)
+
+Linux (Ubuntu) + VIM
+
+  1. pass
+  2. pass
+  3. pass
+  4. pass
+  5. pass
+  6. pass
+  7. pass
+  8. pass
+  9. pass
+  10. pass
+  11. pass
+  12. pass
+  13. pass
